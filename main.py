@@ -1,1 +1,1 @@
-print('Recognize written digits with neural network')
+print('Recognize written digits with neural network!')
